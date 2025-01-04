@@ -1,3 +1,5 @@
+package Introducao_E_EstruturaSequencial;
+
 public class ExpressoesAritmeticas {
 
     /*

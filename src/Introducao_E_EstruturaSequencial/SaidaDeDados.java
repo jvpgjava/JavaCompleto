@@ -1,3 +1,5 @@
+package Introducao_E_EstruturaSequencial;
+
 import java.util.Locale; //importado Locale
 
 public class SaidaDeDados {

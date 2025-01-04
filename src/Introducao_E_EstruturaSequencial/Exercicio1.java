@@ -1,3 +1,5 @@
+package Introducao_E_EstruturaSequencial;
+
 public class Exercicio1 {
     /*
 Em um novo programa, inicie as
